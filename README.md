@@ -3,7 +3,7 @@
 A dark black-and-green theme for [Omarchy](https://omarchy.org), based on the colours
 of [pcspecialist.co.uk](https://www.pcspecialist.co.uk).
 
-![preview](preview.png)
+![PCSpecialist theme preview](preview.webp)
 
 ## Install
 
