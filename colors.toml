@@ -1,0 +1,35 @@
+# PC Specialist — black & green, from pcspecialist.co.uk brand colours
+# Brand green #37b48f, neon #64ffce, deep #1e7c5f, greys #272727 / #474747
+mode = "dark"
+
+accent = "#37b48f"
+selection = "#16362c"
+muted = "#474747"
+
+background = "#0c0c0c"
+dark_background = "#080808"
+darker_background = "#040404"
+lighter_background = "#1b1b1b"
+
+foreground = "#e4ebe8"
+dark_foreground = "#7b7b7b"
+light_foreground = "#c3c9c6"
+bright_foreground = "#ffffff"
+
+hyprland_active_border = "rgba(37b48fee) rgba(64ffceee) 45deg"
+
+red = "#e0525a"
+yellow = "#d9c25e"
+orange = "#e8914a"
+green = "#37b48f"
+cyan = "#64ffce"
+blue = "#4f9fd8"
+magenta = "#a98bd9"
+brown = "#1e7c5f"
+
+bright_red = "#ff7a80"
+bright_yellow = "#f0dc85"
+bright_green = "#64ffce"
+bright_cyan = "#a6ffe6"
+bright_blue = "#7cbcec"
+bright_magenta = "#c7b0ef"
